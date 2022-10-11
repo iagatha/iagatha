@@ -1,7 +1,7 @@
 <h1 align="center">Oie 👋,Sou Iagatha</h1>
 <h3 align="center">Uma desenvolvedora apaixonada por Frontend</h3>
 
-- 💻Especializando em **Front-End**
+- 💻Especializando em **Full-Stack**
 
 - 🌱Estudando **Javascript | Java**
 
