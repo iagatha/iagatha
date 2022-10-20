@@ -1,5 +1,5 @@
 <h1 align="center">Oie 👋,Sou Iagatha</h1>
-<h3 align="center">Uma desenvolvedora apaixonada por criar</h3>
+<h3></h3>
 
 - 💻Especializando em **Full-Stack**
 
