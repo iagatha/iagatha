@@ -1,7 +1,7 @@
 <h1 align="center">Oie 👋,Sou Iagatha</h1>
 <h3></h3>
 
-- 💻Especializando em **Full-Stack**
+- 💻Especializando em **Back-End**
 
 - 🌱Estudando **Java**
 
