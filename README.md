@@ -1,7 +1,13 @@
-<h1 align="center">Oie 👋,Sou Iagatha</h1>
-<h3></h3>
+#### Olá!, Sou Iagatha Souza 👩‍💻
 
-- 🌱Estudando **Java**
+:man_student: **Studying:** Back-end.
+
+🌱 **Learning:** Java, Spring Boot.
+
+:raising_hand_man: **Social Networks:** [Linkedin](https://www.linkedin.com/in/iagatha-souza).
+
+
+---
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
@@ -17,6 +23,7 @@
    </div>
     
    ## 
+ 
     
   <div>
   <a href = "mailto:iagathasouzaa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
