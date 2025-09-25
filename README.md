@@ -1,8 +1,8 @@
 #### Olá!, Sou Iagatha Souza 👩‍💻
 
-:man_student: **Studying:** Back-end.
+:man_student: **Studying:** Full-Stack.
 
-🌱 **Learning:** Java, Spring Boot.
+🌱 **Learning:** Java, Spring Boot, React, JavaScript.
 
 :raising_hand_man: **Social Networks:** [Linkedin](https://www.linkedin.com/in/iagatha-souza).
 
